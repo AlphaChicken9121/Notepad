@@ -27,6 +27,7 @@ public class MainApplicationClass extends Application {
         stage.show();
         stage.setTitle("notepad");
         stage.getIcons().add(new Image("file:icon-2.png"));
+        //Hello Chimken.
     }
 
     /**
